@@ -35,4 +35,4 @@ folium에 각 커피숍마다 Circle을 그려 서로 다른 커피숍이 얼마
 
 ## **지도 시각화 확인법**
 
-`git clone -> CLI에서 pip install -r requirements.txt -> flask_app 폴더로 들어가기 (./flask_app) -> Visual Studio Code에서 python __init__.py CLI로 실행!`
+`git clone -> CLI에서 pip install -r requirements.txt -> flask_app 폴더로 들어가기 (cd flask_app/) -> Visual Studio Code에서 python __init__.py CLI로 실행!`
